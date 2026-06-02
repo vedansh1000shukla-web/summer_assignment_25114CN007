@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+//WAP TO CALCULATE SUM  OF FIRST N NATURAL NUMBERS 
 int main() {
     int i,n,sum=0;
     printf("enter value of n  = ");
